@@ -1,2 +1,2 @@
 # ai-chatbox-nodejs
-A Node.js-based AI chatbot powered by OpenAI.
+A Node.js-based AI chatbot powered by DeepSeek.
